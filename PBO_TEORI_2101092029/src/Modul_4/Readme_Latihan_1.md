@@ -1,0 +1,3 @@
+# Modul 4 Latihan_1.java
+#
+Pada program Latihan_1.java menunjukkan cara menggunakan dan mendeklarasikan Variable dengan tipe data masing-masing. Apablia variabel tersebut berupa Angka bilangan bulat, maka variabel tersebut bertipe Integer. Jika varibel tersebut terdiri dari beberapa karakter, maka variable tersebut bertipe String. Sedangkan, jika variable itu berisi nilai TRUE dan FALSE, maka variable tersebut bertipe Boolean.

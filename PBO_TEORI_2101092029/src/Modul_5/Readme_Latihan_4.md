@@ -1,0 +1,3 @@
+# Modul 5 Latihan_4.java
+#
+Pada program Latihan_4.java merupakan program untuk menampilkan kata "Hello and Good Bye" yang diinputkan oleh user. Metode input yang digunakan yaitu versi BufferedReader. Untuk menggunakan input tersebut, kita import classnya terlebih dahulu dengan cara "import java.io.*". Lalu pada class main kita harus mendeklarasikan nilai awal sebuah variabel yang ingin di input. Pada class juga harus terdapat kode "try" dan "catch", di dalam "try" tersebut kita kode program untuk input dari user.

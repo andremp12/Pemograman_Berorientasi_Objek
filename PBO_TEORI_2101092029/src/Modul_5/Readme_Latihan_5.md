@@ -1,0 +1,3 @@
+# Modul 5 Latihan_5.java
+#
+Pada program Latihan_5.java merupakan program untuk menampilkan kata "Hello and Good Bye" yang diinputkan oleh user. Metode input yang digunakan yaitu versi JOptionPane. Pada input ini kita membuat variabel untuk menampung nilai input tersebut, pada masing-masing variable akan kita isi dengan kode untuk melakuka inputan yaitu "JOptionPane.showInputDialog("")". Lalu kita tambahkan variabel "msg" untuk menampung nilai yang diinputkan tersebut, dan kita tampilkan menggunakan kode perintah "JOptionPane.showMessageDialog(null, msg)".
