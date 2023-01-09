@@ -1,0 +1,3 @@
+# Modul 6 Latihan_1B.java
+#
+Pada program Latihan_1B.java merupakan program untuk menghitung rata-rata dari tiga nilai yang  di inputkan menggunakan JOptionPane. Apabila nilai rata-rata lebih besar atau sama dengan 60, makan akan keluar output "Anda Berhasil! :-)". Jika rata-rata kecil dari 60 akan keluar output "Anda Belum Berhasil! :-(". Untuk membuat kondisi keluaran output tersebut akan menggunakan statement IF. 
