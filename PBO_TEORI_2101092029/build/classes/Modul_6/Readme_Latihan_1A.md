@@ -1,0 +1,3 @@
+# Modul 6 Latihan_1A.java
+#
+Pada program Latihan_1A.java merupakan program untuk menghitung rata-rata dari tiga nilai yang  di inputkan menggunakan BufferedReader. Apabila nilai rata-rata lebih besar atau sama dengan 60, makan akan keluar output "Anda Berhasil! :-)". Jika rata-rata kecil dari 60 akan keluar output "Anda Belum Berhasil! :-(". Untuk membuat kondisi keluaran output tersebut akan menggunakan statement IF. 
